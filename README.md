@@ -1,4 +1,4 @@
-# -SecureVault-Face-Recognition-Based-File-Encryption-System
+# SecureVault-Face-Recognition-Based-File-Encryption-System
 
   SecureVault: Face Recognition-Based File Encryption System – [Python, Tkinter, OpenCV, MongoDB Atlas]
 • Developed a desktop application for secure file encryption and decryption using facial recognition authentication.
